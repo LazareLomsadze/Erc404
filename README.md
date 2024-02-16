@@ -24,6 +24,9 @@ Take note that ERC404 has not been audited and is not an official token standard
 
 
 ![image](https://github.com/itachi2003/Erc404/assets/70573427/e0c3982e-91ec-4f03-8ef3-703007f7d0db)
+
 https://etherscan.io/token/0x9e9fbde7c7a83c43913bddc8779158f1368f0413
+
 https://coinmarketcap.com/currencies/pandora-coin/
+
 https://github.com/Pandora-Labs-Org
